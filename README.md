@@ -1,7 +1,3 @@
-It seems like the README file isn't being displayed correctly when added to your GitHub repository. GitHub uses **Markdown** for rendering the `README.md` file, so it's important to make sure the file is formatted using Markdown syntax.
-
-### Here's the corrected version of the `README.md` file using proper Markdown formatting:
-
 ```markdown
 # AJAX CRUD Application
 
@@ -148,10 +144,3 @@ This script connects to the MySQL database and retrieves the data from the `stud
    git push origin main
    ```
 
-### How It Should Look on GitHub:
-
-- **Headings**: Will be rendered as bold, large text.
-- **Code Blocks**: The code inside the ` ``` ` (triple backticks) will appear in a monospaced font with syntax highlighting.
-- **Lists**: Bulleted lists will appear as simple bullet points.
-
-Let me know if you face any issues when rendering on GitHub!
